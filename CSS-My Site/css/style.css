@@ -1,0 +1,66 @@
+body{
+  background-color:white;
+  margin:0;
+  margin-top: 0;
+}
+
+.main{
+
+  background-color: #D5EEBB;
+  height:1000px;
+
+
+
+}
+.heading{
+  color:black;
+  font-size:50px;
+  font-style: oblique;
+  text-align:center;
+  margin-top: 1px;
+  margin-right: 1px;
+  margin-left: 1px;
+
+}
+.subheading{
+  color:black;
+  font-size:30px;
+  text-align:center;
+}
+.topcontainer{
+  background-color:#3D087B;
+  height: 200px;
+  width: 200px;
+
+
+}
+.bottomcontainer{
+  background-color:#F43B86;
+  height: 200px;
+  width: 200px;
+
+
+}
+.pro{
+  text-decoration: underline;
+}
+
+.cloud1{
+  margin-left: 50px;
+}
+
+.cloud2{
+  margin-left: 400px;
+}
+
+.mountain{
+  margin-left: 400px;
+
+}
+
+.self{
+  width:50px;
+  height: 50px;
+  margin: 10px 1000px 0 10PX;
+
+}
